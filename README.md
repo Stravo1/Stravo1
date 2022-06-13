@@ -12,5 +12,5 @@
 Stravo1/Stravo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Web developer from India. Proficient in VueJS, React, Redux, and Tailwind CSS. currently learning Flutter and native android development :))  
-Visit my website to know more!
+web developer from India. proficient in VueJS, React, Redux, and Tailwind CSS. currently learning Flutter and native android development :))  
+visit my website to know more!
