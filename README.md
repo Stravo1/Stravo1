@@ -12,10 +12,5 @@
 Stravo1/Stravo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stravo1&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stravo1)  
-
-![Profile views](https://gpvc.arturio.dev/stravo1)  
+Web developer from India. Proficient in VueJS, React, Redux, and Tailwind CSS. currently learning Flutter and native android development :))  
+Visit my website to know more!
